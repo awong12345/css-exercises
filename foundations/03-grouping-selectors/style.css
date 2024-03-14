@@ -1,0 +1,14 @@
+.Button{
+    font-size: 28px;
+    font-family: Helvetic, "Times New Roman", "sans-serif";
+}
+
+.Button#click{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+.Button#noclick{
+    background-color: yellow;
+}
